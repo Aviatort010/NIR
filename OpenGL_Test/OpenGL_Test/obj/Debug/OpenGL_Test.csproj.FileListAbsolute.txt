@@ -1,0 +1,17 @@
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\OpenGL_Test.exe.config
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\OpenGL_Test.exe
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\OpenGL_Test.pdb
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\Tao.OpenGl.dll
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\Tao.OpenGl.xml
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.csproj.AssemblyReference.cache
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.Properties.Resources.resources
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.csproj.GenerateResource.cache
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.csproj.CoreCompileInputs.cache
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_T.DED6CBD3.Up2Date
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.exe
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.pdb
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\OpenGL_Test\OpenGL_Test\obj\Debug\OpenGL_Test.Form1.resources
